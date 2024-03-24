@@ -1,1 +1,1 @@
-# Leetcode-SQL-
+# SQL-Leetcode-Challange
