@@ -62,6 +62,8 @@ Output:
 | 200        | 2011       | 15       | 9000  |
 +------------+------------+----------+-------+
 
+ Solution:
+
 WITH cte AS (
     SELECT 
         s.product_id,
